@@ -1,0 +1,6 @@
+@Maintly.API_HostAddress = http://localhost:5036
+
+GET {{Maintly.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
